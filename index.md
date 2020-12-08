@@ -17,9 +17,19 @@ Because bank management was not properly punished, the whole situation creates a
 
 Why bothe about this if you are not an American taxpayer?
 
-Firstly, 2008 financial crisis echoed through the whole world. 
+Firstly, 2008 financial crisis echoed through the whole world and triggered major global economic decline. Second, less obvious reason is currency manipulation.
+
+# Federal Reserve monetary policy
+
+Federal Reserve is a central banking system of the US and acts as a lender of last resort. Also it has the power to print money. As Ben Bernanke, chair of federal reserve from 2006 to 2014 put it:
+
+> But the U.S. government has a technology, called a printing press (or, today, its electronic equivalent), that allows it to produce as many U.S. dollars as it wishes at essentially no cost. By increasing the number of U.S. dollars in circulation, or even by credibly threatening to do so, the U.S. government can also reduce the value of a dollar in terms of goods and services, which is equivalent to raising the prices in dollars of those goods and services. We conclude that, under a paper-money system, a determined government can always generate higher spending and hence positive inflation.
+
+As a matter of fact, Federal Reserve did create $600 billion during 2008 crisis
 
 # Sources
 1. https://en.wikipedia.org/wiki/American_International_Group#2008_Liquidity_crisis_and_government_bailout
 2. https://en.wikipedia.org/wiki/Federal_Reserve_responses_to_the_subprime_crisis
 3. https://en.wikipedia.org/wiki/Moral_hazard#Connection_to_financial_crisis_of_2007%E2%88%9208
+4. [Printing ](https://www.democracynow.org/2010/11/5/new_600b_fed_stimulus_fuels_fears)
+5. [Ben Bernanke speech.](https://www.federalreserve.gov/BOARDDOCS/SPEECHES/2002/20021121/default.htm)
