@@ -25,11 +25,15 @@ Federal Reserve is a central banking system of the US and acts as a lender of la
 
 > But the U.S. government has a technology, called a printing press (or, today, its electronic equivalent), that allows it to produce as many U.S. dollars as it wishes at essentially no cost. By increasing the number of U.S. dollars in circulation, or even by credibly threatening to do so, the U.S. government can also reduce the value of a dollar in terms of goods and services, which is equivalent to raising the prices in dollars of those goods and services. We conclude that, under a paper-money system, a determined government can always generate higher spending and hence positive inflation.
 
-As a matter of fact, Federal Reserve did create $600 billion during 2008 crisis
+As a matter of fact, Federal Reserve did create $600 billion during 2008 crisis in order to have assets to help the economy by giving large loans to banks and bailing them out.
+
+# Inflation and our secret game
+
+You may have already guessed what our game is about. The money that gets periodically stolen from the players is given to the game's bank. When new money is printed and itroduced to the economy, it devalues the currency. If you had some amount of money, it was devalued in the proportion to the money being added. Thus you lose some money when this happens. Consequently the receiver of money, the bank, gets the same portion of value that everybody lost. We see that as the fundamental injustice in this system and we hope that it made you think about modern financial systems and their morality.
 
 # Sources
 1. https://en.wikipedia.org/wiki/American_International_Group#2008_Liquidity_crisis_and_government_bailout
 2. https://en.wikipedia.org/wiki/Federal_Reserve_responses_to_the_subprime_crisis
 3. https://en.wikipedia.org/wiki/Moral_hazard#Connection_to_financial_crisis_of_2007%E2%88%9208
-4. [Printing ](https://www.democracynow.org/2010/11/5/new_600b_fed_stimulus_fuels_fears)
-5. [Ben Bernanke speech.](https://www.federalreserve.gov/BOARDDOCS/SPEECHES/2002/20021121/default.htm)
+4. https://www.democracynow.org/2010/11/5/new_600b_fed_stimulus_fuels_fears
+5. https://www.federalreserve.gov/BOARDDOCS/SPEECHES/2002/20021121/default.htm
